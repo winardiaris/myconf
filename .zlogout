@@ -1,0 +1,1 @@
+/home/ars/.zprezto/runcoms/zlogout
