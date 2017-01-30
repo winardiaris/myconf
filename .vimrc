@@ -159,3 +159,7 @@ nnoremap <C-m> :%s/\s\+$//g <CR>
 
 set runtimepath^=~/.vim/bundle/ag
 let g:ag_working_path_mode="r"
+
+let g:snipMate = get(g:, 'snipMate', {}) " Allow for vimrc re-sourcing
+let g:snipMate.scope_aliases = {}
+let g:snipMate.scope_aliases['ruby'] = 'ruby,rails'"
