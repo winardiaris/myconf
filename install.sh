@@ -12,7 +12,7 @@ cp -ruv .tmux.conf ~/.tmux.conf
 
 
 apt-vim install -y https://github.com/scrooloose/nerdtree.git
-apt-vim install -y https://github.com/kien/ctrlp.vim.git
+apt-vim install -y https://github.com/ctrlpvim/ctrlp.vim.git
 apt-vim install -y https://github.com/jiangmiao/auto-pairs.git
 apt-vim install -y https://github.com/alvan/vim-closetag.git
 apt-vim install -y https://github.com/Xuyuanp/nerdtree-git-plugin.git
