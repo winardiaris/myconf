@@ -1,7 +1,6 @@
 #!/bin/bash
-sudo apt install -y git vim tmux
+sudo apt install -y git vim tmux silversearcher-ag
 curl -sL https://raw.githubusercontent.com/egalpin/apt-vim/master/install.sh | sh
-
 cd /tmp/
 git clone https://github.com/winardiaris/myconf.git
 cd myconf
