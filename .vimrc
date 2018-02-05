@@ -3,7 +3,7 @@ call pathogen#helptags()
 
 syntax enable
 syntax on
-set termguicolors
+"### set termguicolors
 colorscheme molokai     " colorscheme
 set relativenumber      " show line number
 set number
